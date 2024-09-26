@@ -13,7 +13,7 @@ This project is an interactive dashboard built using Power Query and Power BI to
 - **Detailed Visuals**: Visual representations of the most popular dishes, high-performing restaurants, and trends in customer ordering behavior.
 - **User-Friendly Design**: Navigate between different insights with simple clicks, making data exploration smoother and more engaging.
 
-## Insights Uncovered:
+## Insights:
 - Identification of best-selling food items.
 - Analysis of sales trends by order type (dine-in, delivery, etc.).
 - Veg vs Non-Veg sales comparisons.
