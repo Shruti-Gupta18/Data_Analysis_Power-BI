@@ -20,3 +20,5 @@ This project is an interactive dashboard built using Power Query and Power BI to
 - Overview of restaurant performance and customer preferences.
 
 The dashboard is designed to help users quickly identify key trends and actionable insights in the food ordering landscape. This project is useful for anyone looking to understand Zomato's data at a glance.
+![Screenshot 2024-09-26 130301](https://github.com/user-attachments/assets/72047c44-a584-4520-b9b0-8eeab51b6eb7)
+
