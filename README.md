@@ -9,7 +9,7 @@ This project is an interactive dashboard built using Power Query and Power BI to
   - Order quantities and sales amounts.
   - Order counting and counting rate.
   - Sales value acording to the year.
-  -  
+    
 - **Detailed Visuals**: Visual representations of the most popular dishes, high-performing restaurants, and trends in customer ordering behavior.
 - **User-Friendly Design**: Navigate between different insights with simple clicks, making data exploration smoother and more engaging.
 
